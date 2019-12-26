@@ -1,0 +1,72 @@
+#main {
+  background-color: #efefef;
+  border-radius: 5px;
+  margin-bottom: 25px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 200;
+}
+
+#title {
+  font-size: 48px;
+  padding-top: 50px;
+  text-align: center;
+}
+
+header h2 {
+  font-weight: normal;
+  font-size: 16px;
+  text-align: center;
+}
+
+#img-div {
+  background-color: white;
+  margin: 15px;
+  padding: 10px;
+  text-align: center;
+}
+
+#image {
+  width: 70%;
+  display: block;
+  height: auto;
+  margin: 0 auto 15px;
+}
+
+caption {
+  width: 70%;
+}
+
+ul li {
+  margin-top: 25px;
+}
+
+#tribute-info {
+  width: 38%;
+  margin: 0 auto;
+}
+
+#tribute-info h2 {
+  font-size: 18px;
+  text-align: center;
+  margin: 50px auto;
+}
+
+.quote {
+  margin: 50px auto;
+}
+
+.footer {
+  width: 70%;
+  margin: 0 auto;
+  padding-bottom: 10px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+@media (max-width: 720px) {
+  #tribute-info {
+    width: 100%;
+  }
+
+}
