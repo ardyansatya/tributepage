@@ -7,6 +7,11 @@
   font-weight: 200;
 }
 
+a {
+  text-decoration: none;
+  color: #02959f;
+}
+
 #title {
   font-size: 48px;
   padding-top: 50px;
